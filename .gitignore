@@ -1,3 +1,6 @@
+chat.db
+dist
+
 # Logs
 logs
 *.log
